@@ -1,0 +1,6 @@
+python-dotenv
+requests
+pypd
+arize
+pandas
+packaging
