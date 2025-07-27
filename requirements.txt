@@ -4,3 +4,7 @@ pypd
 arize
 pandas
 packaging
+openinference-instrumentation-bedrock
+arize-otel
+boto3>=1.34.0
+requests
